@@ -1,6 +1,6 @@
 Реализация бота представлена в файле tbot_project.py
 
-Также можно запустить из диска https://drive.google.com/drive/folders/1uKqz4wZcUM6wL..
+Также можно запустить из диска https://drive.google.com/drive/folders/1uKqz4wZcUM6wLBJusOcxSxflnwRfI007?usp=sharing
 При запуске ничего дополнительного не потребуется.
 
 ___О функционале бота:___
