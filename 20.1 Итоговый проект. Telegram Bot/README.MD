@@ -2,7 +2,8 @@
 
 Тег бота: @nst_by_paddington_bot 
 
-Также можно запустить из диска https://drive.google.com/drive/folders/1uKqz4wZcUM6wLBJusOcxSxflnwRfI007?usp=sharing
+Также можно запустить из диска https://colab.research.google.com/drive/1nUs46X65SfH7KgpFiqyL2LWbbV9UtSCq?usp=sharing
+
 При запуске ничего дополнительного не потребуется.
 
 ___О функционале бота:___
