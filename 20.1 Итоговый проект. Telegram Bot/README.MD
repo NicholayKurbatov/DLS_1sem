@@ -1,5 +1,7 @@
 Реализация бота представлена в файле tbot_project.py
 
+Тег бота: @nst_by_paddington_bot 
+
 Также можно запустить из диска https://drive.google.com/drive/folders/1uKqz4wZcUM6wLBJusOcxSxflnwRfI007?usp=sharing
 При запуске ничего дополнительного не потребуется.
 
